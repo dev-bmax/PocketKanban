@@ -28,8 +28,10 @@ We may use third-party Service Providers to serve ads.
 
 AdMob is a mobile advertising service provided by Google LLC.
 
-Ads can be personalized based on the device you're using. You can turn off this ad personalization through your device's settings. Learn more about [advertising ID controls](https://support.google.com/googleplay/answer/3405269).
-  
+Ads can be personalized based on the device you're using. You can turn off this ad personalization through your device's settings. Learn more about advertising ID [controls](https://support.google.com/googleplay/answer/3405269).
+
+For more information on how Google uses information from apps that use their services, please visit [Google Privacy & Terms](https://policies.google.com/technologies/partner-sites).
+
 #### Analytics
 
 We may use third-party Service Providers to monitor and analyze the use of our Service.
@@ -38,9 +40,9 @@ We may use third-party Service Providers to monitor and analyze the use of our S
 
 Firebase is analytics service provided by Google LLC.
 
-You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their [Privacy Policy](https://policies.google.com/privacy).
+You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided in [Google Privacy Policy](https://policies.google.com/privacy#infochoices).
 
-For more information on what type of information Firebase collects, please visit [Google Privacy and Terms](https://policies.google.com/privacy).
+For more information on what type of information Firebase collects, please visit [Google Privacy Policy](https://policies.google.com/privacy).
   
 ### Contact Us
 
