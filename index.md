@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# Pocket Kanban
 
-You can use the [editor on GitHub](https://github.com/dev-bmax/pocket-kanban/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Privacy Policy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Effective date: September 27, 2018
 
-### Markdown
+Boris Maximenko ("us", "we", or "our") operates the Pocket Kanban mobile application (hereinafter referred to as the "Service").
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-```markdown
-Syntax highlighted code block
+### Information Collection And Use
 
-# Header 1
-## Header 2
-### Header 3
+We use third party service providers that collect the following information.
 
-- Bulleted
-- List
+#### Types of Data Collected
 
-1. Numbered
-2. List
+- **Advertising ID**
 
-**Bold** and _Italic_ and `Code` text
+The Android advertising identifier is used for advertising and user analytics.
 
-[Link](url) and ![Image](src)
-```
+### Service Providers
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-### Jekyll Themes
+#### Advertising
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dev-bmax/pocket-kanban/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We may use third-party Service Providers to serve ads.
 
-### Support or Contact
+- **AdMob**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+AdMob is a mobile advertising service provided by Google LLC.
+
+Ads can be personalized based on the device you're using. You can turn off this ad personalization through your device's settings. Learn more about [advertising ID controls](https://support.google.com/googleplay/answer/3405269).
+  
+#### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+- **Firebase**
+
+Firebase is analytics service provided by Google LLC.
+
+You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their [Privacy Policy](https://policies.google.com/privacy).
+
+For more information on what type of information Firebase collects, please visit [Google Privacy and Terms](https://policies.google.com/privacy).
+  
+### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us by [email](mailto:dev.bmax@gmail.com).
