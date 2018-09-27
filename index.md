@@ -1,5 +1,3 @@
-# Pocket Kanban
-
 ## Privacy Policy
 
 Effective date: September 27, 2018
